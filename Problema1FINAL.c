@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-//holaaaaaaa
 
 /******* Detalles de la función:
  * Nombre: buscar_str
